@@ -1,0 +1,1 @@
+n.substr(n.length() - 2)
